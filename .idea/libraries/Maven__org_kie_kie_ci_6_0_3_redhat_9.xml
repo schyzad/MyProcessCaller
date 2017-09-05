@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kie:kie-ci:6.0.3-redhat-9">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-ci/6.0.3-redhat-9/kie-ci-6.0.3-redhat-9.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-ci/6.0.3-redhat-9/kie-ci-6.0.3-redhat-9-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/kie-ci/6.0.3-redhat-9/kie-ci-6.0.3-redhat-9-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

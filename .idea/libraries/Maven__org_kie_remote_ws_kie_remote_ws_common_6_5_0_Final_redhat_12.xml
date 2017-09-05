@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kie.remote.ws:kie-remote-ws-common:6.5.0.Final-redhat-12">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/remote/ws/kie-remote-ws-common/6.5.0.Final-redhat-12/kie-remote-ws-common-6.5.0.Final-redhat-12.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/remote/ws/kie-remote-ws-common/6.5.0.Final-redhat-12/kie-remote-ws-common-6.5.0.Final-redhat-12-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kie/remote/ws/kie-remote-ws-common/6.5.0.Final-redhat-12/kie-remote-ws-common-6.5.0.Final-redhat-12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientApplication.iml" filepath="$PROJECT_DIR$/ClientApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eortho-services-impl/eortho-services-impl.iml" filepath="$PROJECT_DIR$/eortho-services-impl/eortho-services-impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../gs-rest-service/complete/gs-rest-service.iml" filepath="$PROJECT_DIR$/../gs-rest-service/complete/gs-rest-service.iml" />
+    </modules>
+  </component>
+</project>
